@@ -1,7 +1,7 @@
 ## Hi Everyone 👋
 
 My Name is **Cahya Wibawa** and I'm a **FullStack Software Angineer**
-<!--
+
 **cahyawibawa12/cahyawibawa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
