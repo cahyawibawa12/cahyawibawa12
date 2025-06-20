@@ -1,6 +1,6 @@
 ## Hi Everyone 👋
 
-My Name is Cahya Wibawa and I'm a FullStack Software Angineer
+My Name is Cahya Wibawa and I'm a FullStack Software Engineer
 
 
 ## 🌐 Socials:
