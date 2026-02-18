@@ -1,7 +1,8 @@
 ## Hi Everyone 👋
 
-My Name is Cahya Wibawa and I'm a FullStack Software Engineer
+Backend Developer & Frontend Engineer passionate about building scalable systems and clean, user-friendly interfaces. Experienced in designing APIs, managing databases, and developing modern web applications using reliable and maintainable architectures.
 
+Strong focus on performance, code quality, and simplicity. Also experienced in UI/UX, ensuring applications are not only functional but intuitive and visually polished. Always exploring better tools, workflows, and technologies to build efficient and impactful software.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cahyawibawa76/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cahyawibawa/) 
